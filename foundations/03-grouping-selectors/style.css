@@ -1,0 +1,13 @@
+.left-click-me, .right-click-me{
+    font-size: 28px;
+    font-family: Helvetica, Times New Roman, sans-serif;
+}
+
+.left-click-me{
+    background-color: black;
+    color: white;
+}
+
+.right-click-me{
+    background-color: yellow;
+}
